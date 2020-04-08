@@ -48,15 +48,15 @@ MonoBehaviour:
   m_Script: {fileID: -1631628248, guid: 4bc5fd733b147194692297d23f623541, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mTrackableName: whitetarget
+  mTrackableName: Default-ParticleSystem
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/ChefDatabase.xml
   mPreserveChildSize: 0
-  mAspectRatio: 0.48909658
+  mAspectRatio: 1
   mImageTargetType: 3
   mWidth: 20
-  mHeight: 9.781932
-  mRuntimeTexture: {fileID: 2800000, guid: 38f93dddc960d084fb37d41f1dd7ff02, type: 3}
+  mHeight: 20
+  mRuntimeTexture: {fileID: 10307, guid: 0000000000000000f000000000000000, type: 0}
 --- !u!114 &7531489174543752849
 MonoBehaviour:
   m_ObjectHideFlags: 0
