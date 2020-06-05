@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "719282835719",
+    "firebase_url": "https://pocket-chef-firebase.firebaseio.com",
+    "project_id": "pocket-chef-firebase",
+    "storage_bucket": "pocket-chef-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719282835719:android:f4374f83076bcf38e7b5a2",
+        "android_client_info": {
+          "package_name": "com.robertcioroba.databaseunity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719282835719-r4059cr951oj7mv46oe2k09d4kl80fjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJtFmlkiY1M-c_XthPMJfkCF-5EZdqF_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719282835719-r4059cr951oj7mv46oe2k09d4kl80fjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
